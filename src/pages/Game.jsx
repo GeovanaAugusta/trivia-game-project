@@ -105,9 +105,6 @@ class Game extends Component {
     const actualQuestion = getQuestions[position];
     const question = target.innerHTML;
 
-    /* const findQuestion = getQuestions
-      .find((quest) => quest.correct_answer === question);
- */
     if (actualQuestion.correct_answer === question) {
       const getDifficulty = actualQuestion.difficulty;
       const TEN = 10;
