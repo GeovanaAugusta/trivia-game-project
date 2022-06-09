@@ -59,6 +59,7 @@ class Login extends Component {
 
     if (!haveToken) {
       const token = await fetchApiPlayer();
+
       saveToken(token);
     }
 
