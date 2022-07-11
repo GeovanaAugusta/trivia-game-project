@@ -30,3 +30,11 @@ A aplicação foi desenvolvida em React usando o Redux como ferramenta de manipu
 ## Deploy
 
 _[Projeto - Trivia Game](https://trivia-game-project-geovanaaugusta.vercel.app//)_
+
+## Autores
+
+- [@117CodAngelo](https://github.com/117CodAngelo)
+- [@GeovanaAugusta](https://github.com/GeovanaAugusta)
+- [@hosanavm](https://github.com/hosanavm)
+- [@Nathan-Kimura](https://github.com/Nathan-Kimura)
+- [@pedropereiradev](https://github.com/pedropereiradev)
