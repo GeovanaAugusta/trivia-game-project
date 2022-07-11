@@ -29,4 +29,4 @@ A aplicação foi desenvolvida em React usando o Redux como ferramenta de manipu
 
 ## Deploy
 
-_[Projeto - Trivia Game](https://trybewallet-project-front-end-geovanaaugusta.vercel.app//)_
+_[Projeto - Trivia Game](https://trivia-game-project-geovanaaugusta.vercel.app//)_
